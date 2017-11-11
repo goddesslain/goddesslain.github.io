@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "host": null,
         "cohost": null,
         "manager": null,
         "bouncer": null,
